@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ars-digital-marketing",
+  "private_key_id": "792d6d0af085d6da2482bb22c150818533f39582",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8X8NhYQdCdTW6\nklUnGC55xpYYCbdg4pSOSqqYQXSg10WF6QtCuuygHhq9tDmajOpobtLN7lHn9MZt\nICsQwrDEX3O+XhcYDl1x1igFWiFiZSksfa6MMhtjPV2O14OSNzN+yI8AJ/eaR0/c\nTtN1nDtyYP6t5VEhX//iZ0U0kvZz87gGJFL4he68jycxVYgb/Nf9XImyDAeqUVZ3\nNHF96euT3Ov/KRGcu7+HUEdmvlENTHt6WmKjCPeldtuZar50dnl+wZKQYdUP0ahl\nkPbuMz6U4W+xbId6rheG3VxQnucR2dBnUj+zft6zJoH82O2SeJH+CE23/zesrgI4\nRw+ltJIvAgMBAAECggEAQ7OfQuZed5Isp0tkc1KLkZS/6Q/E6ntErQdE3MfZpNz5\nzbD+LROFa96l+bxGX7d5n+MEvKKEqXsdvaasE7AFW+56aNbkMe8nwnwXkiTcjsKQ\n076v9w8jLL2nXGk0jl5skYp/aqzynm4205U5BrIJ44fcwJ8EU5xvGO3Iv6Z6ER3O\nq/LTg58YMJlLh2D6+fszHqVgO5hPPb5adDMFoSKQd089A4qMjHu2bNnU/eniFqmF\njif4dkbDeU/17zExoEpISDbgJwdN8enOrQV3ny7ZhjxYqJ4jj2SXvyMYjkes/mXw\n4jhctqetGAN2IfsIfy23N6XO44xUUWAqvqt3ShHpQQKBgQDryNDN2Sdi76slX4k5\nBd7KKkI4e1iiQnhNrUDnr7TnsR2CwPaNcbxsY89yefO55oaZDVNR9DESqMoVOhFg\nWykyLI25dQx3E1HumRaWXA+mesjgDGJZcB2uxlCWb+FN6ShP0J3SZmRVrfnB8SZD\nzud0ghTL3LfYA6/Fq6i2ZIIa3wKBgQDMhljlHAlyWW2ECk86jlKaUHpi8NTMF43+\nvYBl1B4WMJ0mTi3R7shBHMMLk0SJXTUXDivWguYilvNXoVTLOcGygJPK3rE9dECY\nI/KDIEYmE/06RZq7GX72p/Szxwts91x+3qREGRUERiQ6Qj7tu+9MbAGyJF44lGcS\n+n+MH/3CsQKBgQCe3W560+6qxas+AjHWHvNuqax2m/0rTrf6Nlr+ADBWz8p/d/5n\nbRO0wEdc7XhfcEiORSE3nd2Woe2PAdIFZ0bJjKVtKMVeUcEpjzJd2ueclyxTcWSu\nuFD3mp1fz0AyG3/Sz1AXHHBMHm2i1BWhKH5gzOiwNyYTwOAkwrVpNy1GZwKBgHDd\netUEQdpOq3cAUXSY8dCitMdA682s+fkoDmEjS28naLGo1vRQ90WnX6NVo67CNvgA\nJAT+u40/DA7Bww9bUh71gZmkht7I9pR+0ee2ub9trIKpwpeZnEz1pr5HC3EYmHyS\n1MeXp9dx9bAIur1qxsW/nLf4Bd7nVnJMtnJXfSwhAoGABv+NH1OXSQXkZpr2MDUG\n7AzIlvYMHnMJbHzm9+pcAOBLXmOFpbl1kltEqQ9lY8L6WWNf5UU+RPwJV0FzqyW4\nSWs0YGNcP3iP6bTjNhtxR1FCVd82BOIC6laqMwkPkxpWIkb6BclD71DbAs1QK2ve\nXj9B+zD0ivl0//hjR2e68qI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d5nui@ars-digital-marketing.iam.gserviceaccount.com",
+  "client_id": "112823672066460245135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d5nui%40ars-digital-marketing.iam.gserviceaccount.com"
+}
