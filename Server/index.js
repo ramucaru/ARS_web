@@ -6,12 +6,6 @@ const mysql = require('mysql');
 
 const admin = require("firebase-admin");
 
-const credential = require("./FirebaseJson.json");
-
-admin.initializeApp({
-    credential: admin.credential.cert(credential)
-})
-
 const db = mysql.createPool({
     host: 'localhost',
     user: 'root',
