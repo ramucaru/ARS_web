@@ -1,0 +1,114 @@
+
+.signinDiv{
+    background-color: #dddfe2;
+    display: flex;
+    padding: 5% 0 5% 0;
+}
+
+.divSignIN {
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: max-content;
+    background-color: #fff;
+}
+
+.divLoginText {
+   font-size: large;
+   color: blue;
+   justify-content: center;
+   display: flex;
+}
+.logintext{
+    align-items: center;
+   align-content: center;
+   align-self: center;
+   display: flex; 
+}
+.divSection1 {
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.signInInput{
+    font-size: 15px;
+  height: 35px;
+  width : 330px;
+  border-radius: 5px;
+  border: 1px solid #ccd0d5;
+}
+
+.sectionButton {
+    display: flex;
+}
+
+.signinSubmitButton {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 42px;
+    padding: 0 16px;
+    width: 332px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: 200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform;
+    color: #fff;
+}
+
+.signUp {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    margin-left: 160px;
+}
+
+/* .divSectionSignUp {
+    
+    display: flex;
+} */
+
+.ARSImage {
+    display: flex;
+  
+}
+.ARSImage1{
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    margin-left: 120px;
+}
+.divSectionSignUp{
+    width: 396px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.googleButton {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem 0 0.5rem 0;
+}
+.orTag {
+    display: flex;
+    justify-content: center;
+}
+.phonecallimage {
+    width: 20%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #4285f4
+}
+.forPhoneBlock {
+    width: 100%;
+    display: flex;
+}
