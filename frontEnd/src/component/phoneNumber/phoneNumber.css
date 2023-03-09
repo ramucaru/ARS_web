@@ -1,0 +1,23 @@
+.phoneNumbercomponent {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.componentBody {
+    background-color: aqua;
+    height: max-content;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.SignInWithPhoneNumber {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 1rem 0;
+}
+.sendOtpButton {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem 0 0.5rem 0;
+}
