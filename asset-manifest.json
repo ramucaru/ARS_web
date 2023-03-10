@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ARS_web/frontEnd/static/css/main.9d566af9.css",
+    "main.js": "/ARS_web/frontEnd/static/js/main.ae8c95ac.js",
+    "static/media/HomeBackground.png": "/ARS_web/frontEnd/static/media/HomeBackground.8406b2efc0ff931684b6.png",
+    "static/media/phoneCall.png": "/ARS_web/frontEnd/static/media/phoneCall.a37c2783396f4dd3f069.png",
+    "index.html": "/ARS_web/frontEnd/index.html",
+    "main.9d566af9.css.map": "/ARS_web/frontEnd/static/css/main.9d566af9.css.map",
+    "main.ae8c95ac.js.map": "/ARS_web/frontEnd/static/js/main.ae8c95ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d566af9.css",
+    "static/js/main.ae8c95ac.js"
+  ]
+}
