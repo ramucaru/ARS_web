@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.f6629585.css",
-    "main.js": "./static/js/main.77fa78e1.js",
-    "static/media/HomeBackground.png": "./static/media/HomeBackground.8406b2efc0ff931684b6.png",
-    "static/media/phoneCall.png": "./static/media/phoneCall.a37c2783396f4dd3f069.png",
-    "index.html": "./index.html",
-    "main.f6629585.css.map": "./static/css/main.f6629585.css.map",
-    "main.77fa78e1.js.map": "./static/js/main.77fa78e1.js.map"
+    "main.css": "/ramucaru/ARS_web/tree/newBranch/frontEnd/static/css/main.8c3b9bc5.css",
+    "main.js": "/ramucaru/ARS_web/tree/newBranch/frontEnd/static/js/main.f9511713.js",
+    "static/media/HomeBackground.png": "/ramucaru/ARS_web/tree/newBranch/frontEnd/static/media/HomeBackground.8406b2efc0ff931684b6.png",
+    "static/media/phoneCall.png": "/ramucaru/ARS_web/tree/newBranch/frontEnd/static/media/phoneCall.a37c2783396f4dd3f069.png",
+    "index.html": "/ramucaru/ARS_web/tree/newBranch/frontEnd/index.html",
+    "main.8c3b9bc5.css.map": "/ramucaru/ARS_web/tree/newBranch/frontEnd/static/css/main.8c3b9bc5.css.map",
+    "main.f9511713.js.map": "/ramucaru/ARS_web/tree/newBranch/frontEnd/static/js/main.f9511713.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6629585.css",
-    "static/js/main.77fa78e1.js"
+    "static/css/main.8c3b9bc5.css",
+    "static/js/main.f9511713.js"
   ]
 }
